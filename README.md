@@ -4,7 +4,7 @@
 ![Spigot](https://img.shields.io/badge/Paper-1.20+-white.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-![500px](https://github.com/s5y-ux/EnchantsPlus/assets/59636597/245f4912-51ab-4b25-bf56-4250dc1229cf)
+![500px](https://github.com/s5y-ux/EnchantsPlus/assets/59636597/e3bc4f61-c63c-4b28-9ad3-357a9812b386)
 
 Welcome to Enchants Plus, the ultimate Bukkit plugin for enhancing your Minecraft server with custom enchantments! Take your gameplay to the next level by introducing unique and powerful enchantments that offer exciting new abilities and effects. With Enchants Plus, players can discover and utilize a wide range of enchantments to personalize their gaming experience and embark on thrilling adventures like never before.
 
