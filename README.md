@@ -12,8 +12,6 @@ Welcome to Enchants Plus, the ultimate Bukkit plugin for enhancing your Minecraf
 
 - **Custom Enchantments**: Explore a diverse selection of custom enchantments, each offering unique effects and powers to enhance gameplay.
 - **Dynamic Enchantment Effects**: Experience the thrill of wielding enchanted items with special abilities, from enhanced mining and combat prowess to unique utility functions.
-- **Interactive GUI**: Access the enchanting system through an intuitive graphical user interface, making it easy for players to discover and apply custom enchantments.
-- **Player Progression**: Encourage player engagement and progression by offering rare and powerful enchantments to discover and master.
 - **Customizable Gameplay**: Fine-tune the enchantment system to suit your server's preferences and balance requirements.
 - **Immersive Gameplay**: Immerse yourself in an enriched Minecraft experience with enchantments that add depth and excitement to your adventures.
 
