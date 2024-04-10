@@ -1,0 +1,9 @@
+name: EnchantsPlus
+main: net.ddns.vcccd.Main
+version: 1.0.0
+api-version: 1.20
+commands:
+   EnchantsPlus:
+      description: Main command for accessing the EnchantsPlus commands
+      usage: /<command> <option>
+      permission: enchantsplus.admin
