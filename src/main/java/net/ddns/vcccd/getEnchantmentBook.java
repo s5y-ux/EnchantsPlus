@@ -8,10 +8,12 @@ import org.bukkit.entity.Player;
 import net.md_5.bungee.api.ChatColor;
 
 public class getEnchantmentBook implements CommandExecutor {
-
+	
+	private String[] Enchantments = {"Anti-Knockback", "Explode", "Float"};
+	
 	private void getHelpMenu(Player player) {
 		player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&e/enchantsplus &fhelp &6- Pulls up the menu you are currently looking at"));
-		player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&e/enchantsplus &fgivebook <enchantment> <player> &6- Gives the player the specified enchanement book"));
+		player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&e/enchantsplus &fgetbook <enchantment> &6- Gives the player the specified enchanement book"));
 		player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&e/enchantsplus &flist &6- Lists the enchantmens provided in the plugin"));
 	}
 	
@@ -34,7 +36,9 @@ public class getEnchantmentBook implements CommandExecutor {
 			getHelpMenu(player);
 			break;
 		case "list":
-			player.sendMessage("Currently Empty...");
+			for(String enchant: Enchantments) {
+				player.sendMessage(enchant);
+			}
 			break;
 		case "getbook":
 			if(arg3.length == 1) {

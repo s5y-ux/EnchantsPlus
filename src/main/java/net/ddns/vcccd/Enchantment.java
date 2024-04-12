@@ -25,7 +25,16 @@ public class Enchantment {
 	
 	public Enchantment(String customEnchant) {
 		switch(customEnchant) {
-		case "Gamer":
+		case "Anti-Knockback":
+			this.returnBook = generateBook(customEnchant);
+			break;
+		case "Explode":
+			this.returnBook = generateBook(customEnchant);
+			break;
+		case "Float":
+			this.returnBook = generateBook(customEnchant);
+			break;
+		case "Poison":
 			this.returnBook = generateBook(customEnchant);
 			break;
 		}
